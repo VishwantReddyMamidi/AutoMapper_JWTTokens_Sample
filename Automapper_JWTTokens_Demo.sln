@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automapper_JWTTokens_Demo", "Automapper_JWTTokens_Demo\Automapper_JWTTokens_Demo.csproj", "{98E1CB0E-3071-4CF2-A3D6-5EF9B7E3B979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E1CB0E-3071-4CF2-A3D6-5EF9B7E3B979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E1CB0E-3071-4CF2-A3D6-5EF9B7E3B979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E1CB0E-3071-4CF2-A3D6-5EF9B7E3B979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E1CB0E-3071-4CF2-A3D6-5EF9B7E3B979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5554592-AE1B-4CEB-8763-14F849A870D8}
+	EndGlobalSection
+EndGlobal
